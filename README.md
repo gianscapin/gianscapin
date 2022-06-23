@@ -5,6 +5,7 @@ I'm a mobile developer since 2021.
 
 My first programming language that I learned was Java and then I was learning languages and frameworks like Spring, Kotlin, Javascript, React, NodeJs.
 In university I did multiple projects in Javascript, NodeJs and my final project was in Kotlin doing a Mobile App, this project was about finding lost animals. Doing this project in Android and Kotlin blew my mind and I fell in love with Kotlin and making mobile apps.
+</br>
 In 2021 I graduated from Systems Analyst and I started to work as a Software Engineer in Odea. Doing projects for mobile apps using React Native and in backend using Java and Spring.
 I'm learning and making a mobile projects in native (Kotlin, Android) and hybrid (React Native) way.
 
