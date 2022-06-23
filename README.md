@@ -16,7 +16,7 @@ I'm learning and making a mobile projects in native (Kotlin, Android) and hybrid
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![React_Native](https://img.shields.io/badge/React_Native-4285F4?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-[![Spring](https://img.shields.io/badge/Spring-white?style=for-the-badge&logo=spring&logoColor=white&labelColor=47A248)]()
+[![Spring](https://img.shields.io/badge/Spring-47A248?style=for-the-badge&logo=spring&logoColor=white&labelColor=47A248)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
