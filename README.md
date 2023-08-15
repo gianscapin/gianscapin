@@ -8,7 +8,9 @@ In university I did multiple projects in Javascript, NodeJs and my final project
 
 In 2021 I graduated from Systems Analyst and I started to work as a Software Engineer in Odea. Doing projects for mobile apps using React Native and in backend using Java and Spring.
 
-I'm learning and making mobile projects in native (Kotlin, Android) and hybrid (React Native) way.
+I'm trying to improve my mobile skills, getting better in Swift and Kotlin. In my spare time I'm working on Jetpack Compose and Swift UI projects.
+
+In my current work I'm programming in Android, using Kotlin and Java, and iOS using Swift.
 
 ## Skills:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
